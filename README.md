@@ -43,5 +43,3 @@ Program ini mengimplementasikan algoritma enkripsi dan dekripsi XOR sederhana me
 
 4. **Opsi 3 (Keluar):**
    - Mengakhiri program ketika pengguna memilih untuk keluar.
-
-Program ini memungkinkan pengguna untuk mengenkripsi dan mendekripsi teks menggunakan XOR, dengan opsi untuk melihat representasi biner dan desimal dari teks dan kunci. Program ini menyediakan antarmuka baris perintah sederhana untuk berinteraksi dengan fungsionalitas enkripsi dan dekripsi.
